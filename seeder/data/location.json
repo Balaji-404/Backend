@@ -1,0 +1,41 @@
+[
+    {
+        "pincode": [
+            {
+                "name": "400025"
+            },
+            {
+                "name": "530068"
+            },
+            {
+                "name": "110002"
+            }
+        ]
+    },
+    {
+        "address1": [
+            {
+                "name": "Shree Ganesh Society, SK Bole Road, Near Saamna Press, Prabhadevi, Mumbai"
+            },
+            {
+                "name": "Galaxy Appartment, Near Star Cineplex, Banglore"
+            },
+            {
+                "name": "Sham Housing Society, Besides Parliament Road, New Delhi"
+            }
+        ]
+    },
+    {
+        "address2": [
+            {
+                "name": "Shree Ganesh Society, SK Bole Road, Near Saamna Press, Prabhadevi, Mumbai"
+            },
+            {
+                "name": "Vishwanath Cooperative Society, Besides chinnaswamy Stadium, Banglore"
+            },
+            {
+                "name": "Sham Housing Society, Besides Parliament Road, New Delhi"
+            }
+        ]
+    }
+]

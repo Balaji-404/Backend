@@ -1,0 +1,17 @@
+{
+  "successMessages": {
+    "getAllCountries": "Countries data retrieved successfully",
+    "addCountry": "Country added successfully",
+    "showCountry": "Country found!!",
+    "deleteCountry": "Country deleted successfully",
+    "updateCountry": "Updation Successfull"
+  },
+  "errorMessages":{
+    "countryAlreadyExists": "Entered Country already exists",
+    "countryNameRequired":"Country name is required",
+    "countryNameLength":"Country name should be atleast 4 letters long",
+    "countryIdRequired":"Country id is required as param",
+    "countryIdLength":"Country id should be 24 characters long",
+    "countryNotExists":"Country doesn't exists"
+  }
+}

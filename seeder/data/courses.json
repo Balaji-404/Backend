@@ -1,0 +1,35 @@
+[
+  {
+    "Bachelor of Engineering (B.E)": [
+      { "name": "Coumputer Science and Engineering" },
+      { "name": "Information Technology and Engineering" },
+      { "name": "Electronics and Telecommunication Engineering" },
+      { "name": "Mechanical Engineering" },
+      { "name": "Civil Engineering" },
+      { "name": "Electrical and Electronics Engineering" },
+      { "name": "Electronics Engineering" }
+    ]
+  },
+  {
+    "Bachelor of Technology (BTech)": [
+      { "name": "Aeronotical Engineering" },
+      { "name": "Automobile Engineering" },
+      { "name": "Coumputer Science and Engineering" },
+      { "name": "Information Technology and Engineering" },
+      { "name": "Electronics and Telecommunication Engineering" },
+      { "name": "Mechanical Engineering" },
+      { "name": "Civil Engineering" },
+      { "name": "Electrical and Electronics Engineering" },
+      { "name": "Electronics Engineering" }
+    ]
+  },
+  {
+    "Bachelor of Science (BSc)": [
+      { "name": "BSc Computer Science" },
+      { "name": "BSc Information Technology" },
+      { "name": "BSc Micro Biology" },
+      { "name": "BSc Botany" },
+      { "name": "BSc Zoology" }
+    ]
+  }
+]

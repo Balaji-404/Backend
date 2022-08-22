@@ -1,0 +1,18 @@
+{
+    "successMessages": {
+      "getAllUniversities": "Universities data retrieved successfully",
+      "addUniversity": "University added successfully",
+      "showUniversity": "University found!!",
+      "deleteUniversity": "University deleted successfully",
+      "updateUniversity": "Updation Successfull"
+    },
+    "errorMessages":{
+      "universityAlreadyExists": "Entered university already exists",
+      "universityNameRequired":"University name is required",
+      "universityNameLength":"University name should be atleast 4 letters long",
+      "universityIdRequired":"University id is required as param",
+      "universityIdLength":"University id should be 24 characters long",
+      "universityNotExists":"University doesn't exists"
+    }
+  }
+  

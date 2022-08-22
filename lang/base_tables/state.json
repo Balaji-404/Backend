@@ -1,0 +1,18 @@
+{
+  "successMessages": {
+    "getAllStates": "States data retrieved successfully",
+    "addState": "state added successfully",
+    "showState": "state found!!",
+    "deleteState": "state deleted successfully",
+    "updateState": "Updation Successfull"
+  },
+  "errorMessages": {
+    "stateAlreadyExists": "Entered State already exists",
+    "stateNameRequired": "State name is required",
+    "stateNameLength": "State name should be atleast 4 letters long",
+    "stateIdRequired": "State id is required as param",
+    "stateIdLength": "State id should be 24 characters long",
+    "stateNotExists": "State doesn't exists",
+    "countryId":"Country Id is required"
+  }
+}

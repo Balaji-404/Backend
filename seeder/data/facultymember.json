@@ -1,0 +1,80 @@
+[
+    {
+        "fullName": [
+            {
+                "name": "Lalit Oberoi"
+            },
+            {
+                "name": "Dhananjay Patel"
+            },
+            {
+                "name": "Beena Ballal"
+            }
+        ]
+    },
+    {
+        "dob": [
+            {
+                "name": "09-01-1974"
+            },
+            {
+                "name": "15-05-1982"
+            },
+            {
+                "name": "18-09-1898"
+            }
+        ]
+    },
+    {
+        "designation":[
+            {
+                "name":"Head of the Department"
+            },
+            {
+                "name":"Academic Coordinator"
+            },
+            {
+                "name":"Associate Professor"
+            }
+        ]
+    },
+    {
+        "gender":[
+            {
+                "name":"Male"
+            },
+            {
+                "name":"Male"
+            },
+            {
+                "name":"Female"
+            }
+        ]
+    },
+    {
+        "department":[
+            {
+                "name":"Electronics"
+            },
+            {
+                "name":"Computer Engineering"
+            },
+            {
+                "name":"Electronics and Telecommunication"
+            }
+        ]
+    },
+    {
+        "qualification": [
+            {
+                "name":"Bachelors"
+            },
+            {
+                "name":"PHD"
+            },
+            {
+                "name":"Masters"
+            }
+        ]
+    }
+]

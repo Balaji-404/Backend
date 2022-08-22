@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": [
+            {
+                "name": "Ganesh"
+            },
+            {
+                "name": "Jay"
+            },
+            {
+                "name": "Shree"
+            },
+            {
+                "name": "Ram"
+            }
+
+        ]
+    },
+    {
+        "middleName": [
+            {
+                "name": "Shankar"
+            },
+            {
+                "name": "Rahul"
+            },
+            {
+                "name": "Aditya"
+            },
+            {
+                "name": "Shiv"
+            }
+        ]
+    },
+    {
+        "lastName": [
+            {
+                "name": "Shah"
+            },
+            {
+                "name": "Singh"
+            },
+            {
+                "name": "Patil"
+            },
+            {
+                "name": "Shinde"
+            }
+        ]
+    }
+]

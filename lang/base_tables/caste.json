@@ -1,0 +1,18 @@
+{
+    "successMessages": {
+      "getAllCastes": "Castes data retrieved successfully",
+      "addCaste": "Caste added successfully",
+      "showCaste": "Caste found!!",
+      "deleteCaste": "Caste deleted successfully",
+      "updateCaste": "Updation Successfull"
+    },
+    "errorMessages":{
+      "casteAlreadyExists": "Entered Caste already exists",
+      "casteNameRequired":"Caste name is required",
+      "casteNameLength":"Caste name should be atleast 4 letters long",
+      "casteIdRequired":"Caste id is required as param",
+      "casteIdLength":"Caste id should be 24 characters long",
+      "casteNotExists":"Caste doesn't exists",
+      "religionId":"Religion Id is required"
+    }
+  }

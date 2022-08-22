@@ -1,0 +1,80 @@
+[
+    {
+        "jobTitle": [
+            {
+                "name":"Associate"
+            },
+            {
+                "name":"Coordinator"
+            },
+            {
+                "name":"Specialist"
+            }
+        ]
+    },
+    {
+        "organizationName": [
+            {
+                "name": "WhiteHatJr"
+            },
+            {
+                "name": "Jio Digital"
+            },
+            {
+                "name": "Tata"
+            }
+        ]
+    },
+    {
+        "place": [
+            {
+                "name": "Mumbai"
+            },
+            {
+                "name": "Banglore"
+            },
+            {
+                "name": "Delhi"
+            }
+        ]
+    },
+    {
+        "jobType": [
+            {
+                "name": "Web Developer"
+            },
+            {
+                "name": "Consultant"
+            },
+            {
+                "name": "Public Relations"
+            }
+        ]
+    },
+    {
+        "responsibility": [
+            {
+                "name": "Project Lead"
+            },
+            {
+                "name": "Senior Consultant"
+            },
+            {
+                "name": "Senior HR"
+            }
+        ]
+    },
+    {
+        "experience": [
+            {
+                "name": "3 years"
+            },
+            {
+                "name": "4 years"
+            },
+            {
+                "name": "2 years"
+            }
+        ]
+    }
+]

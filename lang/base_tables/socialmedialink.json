@@ -1,0 +1,19 @@
+{
+    "successMessages": {
+      "getAllSocialMediaLinks": "Social Media Link data retrieved successfully",
+      "addSocialMediaLink": "Social Media Link added successfully",
+      "showSocialMediaLink": "Social Media Link found!!",
+      "deleteSocialMediaLink": "Social Media Link deleted successfully",
+      "updateSocialMediaLink": "Updation Successfull"
+    },
+    "errorMessages":{
+      "socialMediaLinkAlreadyExists": "Entered Social Media Link already exists",
+      "socialMediaLinkNameRequired":"Social Media Link name is required",
+      "socialMediaLinkRequired":"Social Media Link is required",
+      "socialMediaLinkUrl":"Social Media Link is of type URL",
+      "socialMediaLinkNameLength":"Social Media Link name should be atleast 4 letters long",
+      "socialMediaLinkIdRequired":"Social Media Link id is required as param",
+      "socialMediaLinkIdLength":"Social Media Link id should be 24 characters long",
+      "socialMediaLinkNotExists":"Social Media Link doesn't exists"
+    }
+  }

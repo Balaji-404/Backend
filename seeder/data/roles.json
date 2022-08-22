@@ -1,0 +1,29 @@
+{
+  "commonPermissions": [
+    "get-all-countries",
+    "get-all-states",
+    "get-all-districts",
+    "get-all-castes",
+    "get-all-religions",
+    "edit-country",
+    "show-country",
+    "edit-state",
+    "show-state",
+    "edit-caste",
+    "show-religion",
+    "edit-district",
+    "show-district"
+  ],
+  "superPermissions": [
+    "create-country",
+    "create-state",
+    "create-district",
+    "create-caste",
+    "create-religion"
+  ],
+  "heiPermissions":[
+    "get-all-demographic",
+    "get-all-location",
+    "get-all-experience"
+  ]
+}

@@ -1,0 +1,93 @@
+[
+    {
+        "position": [
+            {
+                "name":"Associate Professor"
+            },
+            {
+                "name":"Lab Assistant"
+            },
+            {
+                "name":"Senior Consultant"
+            }
+        ]
+    },
+    {
+        "employmentType": [
+            {
+                "name":"Part-Time"
+            },
+            {
+                "name":"Full-Time"
+            },
+            {
+                "name":"Internship"
+            }
+        ]
+    },
+    {
+        "hardSkills":[
+            {
+                "name":"Teaching, Analytical Writing"
+            },
+            {
+                "name":"Data Analysis, Computer Programming"
+            },
+            {
+                "name":"Presentation Skills, Strategic Planning"
+            }
+        ]
+    },
+    {
+        "softSkills":[
+            {
+                "name":"Communication, Creativity"
+            },
+            {
+                "name":"Adaptability, Critical Thinking"
+            },
+            {
+                "name": "Problem Solving, Conflict Resolution"
+            }
+        ]
+    },
+    {
+        "workExperience":[
+            {
+                "name":"1 year"
+            },
+            {
+                "name":"3 years"
+            },
+            {
+                "name":"6 months"
+            }
+        ]
+    },
+    {
+        "educationalQualification":[
+            {
+                "name":"Masters"
+            },
+            {
+                "name":"PHD"
+            },
+            {
+                "name":"Bachelors"
+            }
+        ]
+    },
+    {
+        "ugcApproved":[
+            {
+                "name":"True"
+            },
+            {
+                "name":"True"
+            },
+            {
+                "name":"False"
+            }
+        ]
+    }
+]

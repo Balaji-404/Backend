@@ -1,0 +1,93 @@
+[
+    {
+        "qualificationLevel": [
+            {
+                "name": "Bachelors"
+            },
+            {
+                "name": "Masters"
+            },
+            {
+                "name": "PHD"
+            }
+        ]
+    },
+    {
+        "instituteName": [
+            {
+                "name": "Vidyalankar Institute of Technology"
+            },
+            {
+                "name": "Sardar Patel Institute of Technology"
+            },
+            {
+                "name": "Indian Institute of Technology-Delhi"
+            }
+        ]
+    },
+    {
+        "board": [
+            {
+                "name": "State Board"
+            },
+            {
+                "name": "CBSE"
+            },
+            {
+                "name": "ICSE"
+            }
+        ]
+    },
+    {
+        "admissionYear": [
+            {
+                "name": "2005"
+            },
+            {
+                "name": "2001"
+            },
+            {
+                "name": "1997"
+            }
+        ]
+    },
+    {
+        "passingYear": [
+            {
+                "name": "2009"
+            },
+            {
+                "name": "2005"
+            },
+            {
+                "name": "2002"
+            }
+        ]
+    },
+    {
+        "percentage" : [
+            {
+                "name": "92"
+            },
+            {
+                "name": "84"
+            },
+            {
+                "name": "96"
+            }
+        ]
+    },
+    {
+        "marksheet": [
+            {
+                "name": "Provided"
+            },
+            {
+                "name": "Not Provided"
+            },
+            {
+                "name": "Provided"
+            }
+        ]
+    }
+]

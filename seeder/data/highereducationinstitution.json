@@ -1,0 +1,54 @@
+[
+    {
+        "instituteName": [
+            {
+                "name":"Vidyalankar Institute of Technology"
+            },
+            {
+                "name":"Indian Institute of Technology,Delhi"
+            },
+            {
+                "name":"Sardar Vallabhbhai Patel National Institute of Technology,Surat"
+            }
+        ]
+    },
+    {
+        "registrationNumber":[
+            {
+                "name":"191040044"
+            },
+            {
+                "name":"291050059"
+            },
+            {
+                "name":"191054421"
+            }
+        ]
+    },
+    {
+        "regulatoryBody":[
+            {
+                "name":"AICTE"
+            },
+            {
+                "name":"AICTE"
+            },
+            {
+                "name":"AICTE"
+            }
+        ]
+    },
+    {
+        "foundingYear":[
+            {
+                "name":"2003"
+            },
+            {
+                "name":"1961"
+            },
+            {
+                "name":"1982"
+            }
+        ]
+    }
+]

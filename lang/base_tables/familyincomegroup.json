@@ -1,0 +1,17 @@
+{
+    "successMessages": {
+      "getAllFamilyIncomeGroups": "Family Income Group data retrieved successfully",
+      "addFamilyIncomeGroup": "Family Income Group added successfully",
+      "showFamilyIncomeGroup": "Family Income Group found!!",
+      "deleteFamilyIncomeGroup": "Family Income Group deleted successfully",
+      "updateFamilyIncomeGroup": "Updation Successfull"
+    },
+    "errorMessages":{
+      "familyIncomeGroupAlreadyExists": "Entered Family Income Group already exists",
+      "familyIncomeGroupNameRequired":"Family Income Group name is required",
+      "familyIncomeGroupNameLength":"Family Income Group name should be atleast 4 letters long",
+      "familyIncomeGroupIdRequired":"Family Income Group id is required as param",
+      "familyIncomeGroupIdLength":"Family Income Group id should be 24 characters long",
+      "familyIncomeGroupNotExists":"Family Income Group doesn't exists"
+    }
+  }

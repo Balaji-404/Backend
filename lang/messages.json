@@ -1,0 +1,31 @@
+{
+  "successMessages": {
+    "addRole": "Role added successfully",
+    "addRoutePermission": "Route Permission Added Succesfully",
+    "getRoles": "Roles retrieved successfully",
+    "optSentSuccess": "Otp sent successfully to your registered email",
+    "verifySuccess": "Email verified successfully"
+  },
+
+  "errorMessages": {
+    "emptyOtp": "Otp is required",
+    "emptyEmail": "Email is requried",
+    "expireOtp": "Otp expired",
+    "otpNotMatch": "Otp doesn't match",
+    "accountRecord": "Account record not find, please sign up or login!",
+    "emailRequired": "Email is required",
+    "emailType": "Invalid Email",
+    "firstNameRequired": "First Name is required",
+    "lastNameRequired": "Last Name is required",
+    "dobRequired": "Date of birth requried",
+    "genderRequired": "User gender required",
+    "mobileRequired": "Mobile number is required",
+    "passwordRequired": "Password is required",
+    "passwordLength": "Password should be atleast 6 characters long",
+    "passwordType": "Password should be Alphanumeric",
+    "userId": "User Id should be 24 characters long",
+    "userNotExists": "User doesn't exists",
+    "incorrectRole": "Error while adding role",
+    "addRoutePermission": "Unable to Add Route Permission"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "successMessages": {
+      "getAllSkillCategorys": "Skill Category data retrieved successfully",
+      "addSkillCategory": "Skill Category added successfully",
+      "showSkillCategory": "Skill Category found!!",
+      "deleteSkillCategory": "Skill Category deleted successfully",
+      "updateSkillCategory": "Updation Successfull"
+    },
+    "errorMessages":{
+      "skillCategoryAlreadyExists": "Entered Skill Category already exists",
+      "skillCategoryNameRequired":"Skill Category name is required",
+      "skillCategoryNameLength":"Skill Category name should be atleast 4 letters long",
+      "skillCategoryIdRequired":"Skill Category id is required as param",
+      "skillCategoryIdLength":"Skill Category id should be 24 characters long",
+      "skillCategoryNotExists":"Skill Category doesn't exists"
+    }
+  }

@@ -1,0 +1,17 @@
+{
+    "successMessages": {
+      "getAllStreams": "Streams data retrieved successfully",
+      "addStream": "Stream added successfully",
+      "showStream": "Stream found!!",
+      "deleteStream": "Stream deleted successfully",
+      "updateStream": "Updation Successfull"
+    },
+    "errorMessages":{
+      "streamAlreadyExists": "Entered Stream already exists",
+      "streamNameRequired":"Stream name is required",
+      "streamNameLength":"Stream name should be atleast 4 letters long",
+      "streamIdRequired":"Stream id is required as param",
+      "streamIdLength":"Stream id should be 24 characters long",
+      "streamNotExists":"Stream doesn't exists"
+    }
+  }

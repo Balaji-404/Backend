@@ -1,0 +1,34 @@
+[
+  {
+    "India": [
+      {
+        "name": "Maharashtra"
+      },
+      {
+        "name": "Madhya Pradesh"
+      },
+      {
+        "name": "Tamil Nadu"
+      },
+      {
+        "name": "Uttar Pradesh"
+      }
+    ]
+  },
+  {
+    "United States Of America": [
+      {
+        "name": "Texas"
+      },
+      {
+        "name": "Florida"
+      },
+      {
+        "name": "Hawaii"
+      },
+      {
+        "name": "Washington"
+      }
+    ]
+  }
+]

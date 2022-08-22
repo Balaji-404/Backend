@@ -1,0 +1,17 @@
+{
+    "successMessages": {
+      "getAllReligions": "Religion data retrieved successfully",
+      "addReligion": "Religion added successfully",
+      "showReligion": "Religion found!!",
+      "deleteReligion": "Religion deleted successfully",
+      "updateReligion": "Updation Successfull"
+    },
+    "errorMessages":{
+      "religionAlreadyExists": "Entered religion already exists",
+      "religionNameRequired":"religion name is required",
+      "religionNameLength":"religion name should be atleast 4 letters long",
+      "religionIdRequired":"religion id is required as param",
+      "religionIdLength":"religion id should be 24 characters long",
+      "religionNotExists":"religion doesn't exists"
+    }
+  }

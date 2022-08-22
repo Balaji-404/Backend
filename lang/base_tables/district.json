@@ -1,0 +1,18 @@
+{
+  "successMessages": {
+    "getAllDistricts": "Districts data retrieved successfully",
+    "addDistrict": "District added successfully",
+    "showDistrict": "District found!!",
+    "deleteDistrict": "District deleted successfully",
+    "updateDistrict": "Updation Successfull"
+  },
+  "errorMessages": {
+    "districtAlreadyExists": "Entered District already exists",
+    "districtNameRequired": "District name is required",
+    "districtNameLength": "District name should be atleast 4 letters long",
+    "districtIdRequired": "District id is required as param",
+    "districtIdLength": "District id should be 24 characters long",
+    "districtNotExists": "District doesn't exists",
+    "stateId": "State Id is required"
+  }
+}

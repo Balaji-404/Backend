@@ -1,0 +1,93 @@
+[
+    {
+        "position": [
+            {
+                "name":"Associate Professor"
+            },
+            {
+                "name":"Lab Assistant"
+            },
+            {
+                "name":"Senior Consultant"
+            }
+        ]
+    },
+    {
+        "employmentType": [
+            {
+                "name":"Part-Time"
+            },
+            {
+                "name":"Full-Time"
+            },
+            {
+                "name":"Internship"
+            }
+        ]
+    },
+    {
+        "workExperience":[
+            {
+                "name":"1 year"
+            },
+            {
+                "name":"3 years"
+            },
+            {
+                "name":"6 months"
+            }
+        ]
+    },
+    {
+        "educationalQualification":[
+            {
+                "name":"Masters"
+            },
+            {
+                "name":"PHD"
+            },
+            {
+                "name":"Bachelors"
+            }
+        ]
+    },
+    {
+        "salaryRange":[
+            {
+                "name":"3-3.5 LPA"
+            },
+            {
+                "name":"4 LPA"
+            },
+            {
+                "name":"15,000 + incentives"
+            }
+        ]
+    },
+    {
+        "jobDescription":[
+            {
+                "name":"Guiding students pursuing under-graduate degree"
+            },
+            {
+                "name":"Adapt to work as per requirements. Work on erp and managing daily student activities"
+            },
+            {
+                "name":"Work on PR and guided students"
+            }
+        ]
+    },
+    {
+        "ugcApproved":[
+            {
+                "name":"True"
+            },
+            {
+                "name":"True"
+            },
+            {
+                "name":"False"
+            }
+        ]
+    }
+]

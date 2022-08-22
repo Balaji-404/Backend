@@ -1,0 +1,51 @@
+[
+    {
+        "applicationStatus": [
+            {
+                "name": "Approved"
+            },
+            {
+                "name": "Not Approved"
+            },
+            {
+                "name": "Approved"
+            },
+            {
+                "name": "Approved"
+            }
+        ]
+    },
+    {
+        "date": [
+            {
+                "name": "7-06-2022"
+            },
+            {
+                "name": "8-04-2022"
+            },
+            {
+                "name": "15-07-2022"
+            },
+            {
+                "name": "18-08-2022"
+            }
+        ]
+    },
+    {
+        "position": [
+            {
+                "name": "Assistant Professor"
+            },
+            {
+                "name": "Head of the Department"
+            },
+            {
+                "name": "Academic Coordinator"
+            },
+            {
+                "name": "Lab Assistant"
+            }
+        ]
+    }
+
+]

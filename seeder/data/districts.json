@@ -1,0 +1,53 @@
+[
+  {
+    "Maharashtra": [
+      {
+        "name": "Mumbai City"
+      },
+      {
+        "name": "Mumbai Suburban"
+      },
+      {
+        "name": "Akola"
+      },
+      {
+        "name": "Nagpur"
+      },
+      {
+        "name": "Nashik"
+      },
+      {
+        "name": "Sindhudurg"
+      }
+    ]
+  },
+  {
+    "Tamil Nadu": [
+      {
+        "name": "Chennai"
+      },
+      {
+        "name": "Coimbatore"
+      },
+      {
+        "name": "Salem"
+      },
+      {
+        "name": "Erode"
+      }
+    ]
+  },
+  {
+    "Madhya Pradesh": [
+      {
+        "name": "Agar Malwa"
+      },
+      {
+        "name": "Betul"
+      },
+      {
+        "name": "Bhindi"
+      }
+    ]
+  }
+]

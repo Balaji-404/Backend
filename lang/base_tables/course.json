@@ -1,0 +1,19 @@
+{
+    "successMessages": {
+      "getAllCourses": "Courses data retrieved successfully",
+      "addCourse": "Course added successfully",
+      "showCourse": "Course found!!",
+      "deleteCourse": "Course deleted successfully",
+      "updateCourse": "Updation Successfull"
+    },
+    "errorMessages": {
+      "courseAlreadyExists": "Entered course already exists",
+      "courseNameRequired": "Course name is required",
+      "courseNameLength": "Course name should be atleast 4 letters long",
+      "courseIdRequired": "Course id is required as param",
+      "courseIdLength": "Course id should be 24 characters long",
+      "courseNotExists": "Course doesn't exists",
+      "streamId":"Stream Id is required"
+    }
+  }
+  
